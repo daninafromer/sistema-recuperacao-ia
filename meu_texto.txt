@@ -1,0 +1,13 @@
+A Inteligência Artificial (IA) é legal demais.
+
+Lorem ipsum etc.
+
+É um ramo da ciência da computação que busca criar sistemas capazes de realizar tarefas que normalmente exigiriam inteligência humana, como aprendizado, raciocínio e tomada de decisão.
+
+O aprendizado de máquina (Machine Learning) é uma subárea da IA. Ele permite que sistemas aprendam padrões a partir de dados, sem serem explicitamente programados para cada tarefa. Existem três tipos principais: aprendizado supervisionado, não supervisionado e por reforço.
+
+Redes Neurais Artificiais são modelos computacionais inspirados no cérebro humano. Elas são compostas por camadas de neurônios artificiais que processam informações e são a base do Deep Learning (Aprendizado Profundo).
+
+O Deep Learning utiliza redes neurais com muitas camadas (daí o termo "profundo") para resolver problemas complexos como reconhecimento de imagens, processamento de linguagem natural e jogos.
+
+Os embeddings são representações vetoriais de texto. Eles capturam o significado semântico das palavras, permitindo que computadores entendam que "cachorro" e "cão" são similares, por exemplo.
